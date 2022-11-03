@@ -1,2 +1,2 @@
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Manbeartrain&theme=halloween)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manbeartrain&theme=gotham)
