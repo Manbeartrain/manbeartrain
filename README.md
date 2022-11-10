@@ -1,6 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manbeartrain&theme=gotham)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Manbeartrain&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manbeartrain&show_icons=true&theme=gotham)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manbeartrain&theme=gotham)
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
